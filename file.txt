@@ -5,4 +5,10 @@
 
 
 function b()
+--
 end
+
+function a()
+    print("a")
+end
+
