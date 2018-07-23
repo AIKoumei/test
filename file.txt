@@ -12,3 +12,7 @@ function a()
     print("a")
 end
 
+function c()
+    print("c")
+end
+
