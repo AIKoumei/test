@@ -9,4 +9,6 @@ function a()
 
     print("d")
     print("e")
+    
+    print("C")
 end
