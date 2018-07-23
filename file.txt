@@ -3,4 +3,6 @@
 # what the hell is this?
 # just a file.
 
-
+function a()
+    print("a")
+end
