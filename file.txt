@@ -2,3 +2,7 @@
 # this is a new file.
 # what the hell is this?
 # just a file.
+
+
+function b()
+end
