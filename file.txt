@@ -12,6 +12,14 @@ function a()
     print("a")
 end
 
+function e()
+    print("e")
+end
+
+function d()
+    print("d")
+end
+
 function c()
     print("c")
 end
